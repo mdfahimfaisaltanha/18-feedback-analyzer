@@ -37,7 +37,7 @@ feedback text
      Postgres → dashboard (feed · insights · weekly trend)
 ```
 
-## Design decisions worth defending in an interview
+## Design
 
 - **Fixed taxonomy over open clustering.** “Cluster whatever you find” yields
   different themes every run — you can't chart a trend against a moving
